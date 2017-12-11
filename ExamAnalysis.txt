@@ -1,0 +1,93 @@
+Report for Student 1
+---------------------
+Missed 3 out of 20 questions for 85% correct.
+Questions missed:
+   5(B/A), 7(C/D), 16(A/C), 
+This student passed the exam!
+
+
+Report for Student 2
+---------------------
+Missed 0 out of 20 questions for 100% correct.
+Questions missed:
+   
+This student passed the exam!
+
+
+Report for Student 3
+---------------------
+Missed 6 out of 20 questions for 70% correct.
+Questions missed:
+   2(A/D), 5(B/A), 7(C/D), 10(D/C), 11(B/A), 14(B/A), 
+This student passed the exam!
+
+
+Report for Student 4
+---------------------
+Missed 8 out of 20 questions for 60% correct.
+Questions missed:
+   2(B/D), 4(A/C), 5(B/A), 8(C/B), 10(D/C), 12(B/D), 15(A/C), 
+   16(B/C), 
+This student failed the exam.
+
+
+Report for Student 5
+---------------------
+Missed 3 out of 20 questions for 85% correct.
+Questions missed:
+   1(B/A), 18(C/B), 20(B/A), 
+This student passed the exam!
+
+
+Report for Student 6
+---------------------
+Missed 9 out of 20 questions for 55% correct.
+Questions missed:
+   2(C/D), 4(B/C), 5(B/A), 7(A/D), 10(D/C), 11(B/A), 15(B/C), 
+   18(A/B), 19(B/C), 
+This student failed the exam.
+
+
+Report for Student 7
+---------------------
+Missed 2 out of 20 questions for 90% correct.
+Questions missed:
+   1(C/A), 16(D/C), 
+This student passed the exam!
+
+
+Report for Student 8
+---------------------
+Missed 1 out of 20 questions for 95% correct.
+Questions missed:
+   2(C/D), 
+This student passed the exam!
+
+
+Report for Student 9
+---------------------
+Missed 7 out of 20 questions for 65% correct.
+Questions missed:
+   2(B/D), 3(C/B), 5(D/A), 6(B/A), 10(D/C), 16(D/C), 17(C/D), 
+   
+This student failed the exam.
+
+
+Report for Student 10
+---------------------
+Missed 3 out of 20 questions for 85% correct.
+Questions missed:
+   1(B/A), 7(C/D), 17(A/D), 
+This student passed the exam!
+
+
+Report for Student 11
+---------------------
+Missed 4 out of 20 questions for 80% correct.
+Questions missed:
+   3(C/B), 5(B/A), 10(D/C), 15(B/C), 
+This student passed the exam!
+
+
+Student 2 had the best grade with 100%
+Student 6 had the worst grade with 55%

@@ -238,4 +238,4 @@ void checkQuestions(char correctAnswers[], char studentAnswers[], int numElement
       currentQuestion++;
    }
    outfile << endl;
-}     // End of function checkQuestionns
+}     // End of function checkQuestions
